@@ -1,0 +1,7 @@
+C:\Users\hoyo1\source\repos\XMLConversion\XMLConversion\obj\Release\popUpWindow.g.cs
+C:\Users\hoyo1\source\repos\XMLConversion\XMLConversion\obj\Release\MainWindow.g.cs
+C:\Users\hoyo1\source\repos\XMLConversion\XMLConversion\obj\Release\FindControl.g.cs
+C:\Users\hoyo1\source\repos\XMLConversion\XMLConversion\obj\Release\Worker.g.cs
+C:\Users\hoyo1\source\repos\XMLConversion\XMLConversion\obj\Release\App.g.cs
+C:\Users\hoyo1\source\repos\XMLConversion\XMLConversion\obj\Release\XMLConversion_MarkupCompile.cache
+C:\Users\hoyo1\source\repos\XMLConversion\XMLConversion\obj\Release\XMLConversion_MarkupCompile.lref
